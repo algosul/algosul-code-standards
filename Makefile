@@ -1,3 +1,3 @@
 
 link_to_parent:
-	ln -sf ../rustfmt.toml rustfmt.toml
+	ln -sf code-standards/rustfmt.toml ../rustfmt.toml
